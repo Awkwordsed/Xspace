@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url('astronomy.jpg');
+}
+
+#board{
+    background-color: black;
+}
+
+#header{
+    color: aliceblue;
+}
